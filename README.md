@@ -1,2 +1,8 @@
 # Mobile-Sales-Dashboard
-Developed a dynamic Power BI dashboard using mobile sales data to visualize key metrics like total sales, transactions, customer ratings, and city-wise performance. Applied DAX functions for custom measures and created interactive visuals for trend analysis and decision-making
+1. This project showcases an interactive Power BI dashboard built using mobile sales data. 
+2. It visualizes total sales, transactions, quantity trends, customer ratings, and payment methods across cities and time.
+3. DAX was used to create calculated measures and dynamic KPIs.
+4. Skills That i uses while create's the dashboard
+   a. Data Visualisation
+   b. Data Analysis
+   c. Dax 
